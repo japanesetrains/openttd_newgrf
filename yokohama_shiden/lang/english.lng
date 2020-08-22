@@ -1,0 +1,11 @@
+##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME			:{TITLE}
+STR_GRF_DESCRIPTION		:Trams of The Netherlands for OpenTTD {}(c)2007,2008,2011 Rendall, FooBar and others. {}License: GPLv2 or higher. {}See readme for details.
+
+#Vehicle names
+STR_NAME_YHSD_TYPE500		:YokohamaShiden Type 500 'Type 500'
+
+#Vehicle descriptions
+STR_DESC_YHSD_TYPE500		:Origin: {SILVER}Yokohama, Japan {}{BLACK}Historic facts: {SILVER}FOOBARBAZ
